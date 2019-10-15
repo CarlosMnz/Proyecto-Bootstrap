@@ -1,2 +1,3 @@
-# Trabajo-bootstrap-1
- Tablas Alumno y Maestro
+# Se han modificado los siguientes archivos:
+
+ Tablas Alumno, Maestro, Materia, Grupos; Formas de pago
